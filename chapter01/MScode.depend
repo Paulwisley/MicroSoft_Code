@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525080266 source:e:\code\mscode\main.cpp
+	"header.h"
+	"const.h"
+
+1525077045 e:\code\mscode\header.h
+	<iostream>
+	<windows.h>
+	<pthread.h>
+	<math.h>
+	<stdio.h>
+
+1525080662 e:\code\mscode\const.h
+
